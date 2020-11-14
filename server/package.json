@@ -4,7 +4,7 @@
   "description": "API server for plataforma-comunicacao",
   "main": "server.js",
   "author": "Jonas Cesconetto",
-  "license": "MIT",
+  "license": "GPL",
   "dependencies": {
     "bluebird": "^3.7.2",
     "cors": "^2.8.5",
