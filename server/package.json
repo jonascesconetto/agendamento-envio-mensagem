@@ -1,5 +1,5 @@
 {
-  "name": "plataforma-comunicacao-api",
+  "name": "plataforma-comunicacao-server-api",
   "version": "1.0.0",
   "description": "API server for plataforma-comunicacao",
   "main": "server.js",
