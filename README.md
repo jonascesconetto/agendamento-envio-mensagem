@@ -1,4 +1,4 @@
-# Plataforma de Comunicação
+# Plataforma de Agendamento de Envio de Mensagens
 
 Este projeto tem como objetivo o agendamento de envio de mensagens em diferente sistemas/plataformas de comunicação.
 
